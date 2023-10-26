@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/presto-task-app/static/css/main.2c2e00b8.css",
+    "main.js": "/presto-task-app/static/js/main.e5276c61.js",
+    "index.html": "/presto-task-app/index.html",
+    "main.2c2e00b8.css.map": "/presto-task-app/static/css/main.2c2e00b8.css.map",
+    "main.e5276c61.js.map": "/presto-task-app/static/js/main.e5276c61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c2e00b8.css",
+    "static/js/main.e5276c61.js"
+  ]
+}
